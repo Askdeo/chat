@@ -1,0 +1,8 @@
+.messageForm{
+    position: fixed;
+    bottom: 1rem;
+    margin-left: 320px;
+    left: 0;
+    right: 1rem;
+    z-index: 200;
+}

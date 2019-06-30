@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Login = (props) => {
+const MetaPanel = () => {
     return (
         <div>
-            Login
+            MetaPanel
         </div>
     )
 }
 
-export default Login;
+export default MetaPanel;
